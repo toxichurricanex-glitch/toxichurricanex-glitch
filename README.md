@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**toxichurricanex-glitch/toxichurricanex-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm looking forward to engage more in programming related activities!
 
-Here are some ideas to get you started:
+#About me 👀
+ - 😃 As a teenager, i love building my memories with growth.
+ - 🧠 I started my journey in programming at 15 Years old!
+ - 🤖 My knowledge regarding programming came from Artificial Intellegence and YouTube videos!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Which programming language do I know? 👨‍💻
+ - I am currently working on with Python!🐍
+ - I have some understandings with OOP, classes, and Tkinter!
+
+#Fun Fact💡
+ - Despite living in a very shallow place, I still managed to keep on grinding! 🌏
+
